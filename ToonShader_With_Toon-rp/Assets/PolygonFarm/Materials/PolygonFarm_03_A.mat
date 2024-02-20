@@ -8,8 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: PolygonFarm_03_A
-  m_Shader: {fileID: -6465566751694194690, guid: da04d4c634f86154bb5186d41773e78a,
-    type: 3}
+  m_Shader: {fileID: 4800000, guid: 66d261cceb43446dbdd99389a7ed8411, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
@@ -164,10 +163,10 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _MainColor: {r: 1, g: 1, b: 1, a: 1}
-    - _RimColor: {r: 0.3962264, g: 0.3962264, b: 0.3962264, a: 0}
+    - _RimColor: {r: 0, g: 0, b: 0, a: 0}
     - _ShadowColor: {r: 0, g: 0, b: 0, a: 0.75}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _SpecularColor: {r: 0.9056604, g: 0.9056604, b: 0.9056604, a: 1}
+    - _SpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &1563562611229051274
 MonoBehaviour:
