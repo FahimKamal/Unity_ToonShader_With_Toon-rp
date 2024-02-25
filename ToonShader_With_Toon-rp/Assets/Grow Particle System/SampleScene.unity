@@ -453,7 +453,7 @@ GameObject:
   - component: {fileID: 1283120306}
   - component: {fileID: 1283120305}
   m_Layer: 0
-  m_Name: Fire Circle
+  m_Name: Upgrade Circle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5380,7 +5380,7 @@ ParticleSystemRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 03a70c76e19987b42bf0d22d9b47b130, type: 2}
-  - {fileID: 2100000, guid: e823cd5b5d27c0f4b8256e7c12ee3e6d, type: 2}
+  - {fileID: 2100000, guid: 3b4164ba0482b2046bcc71c6b9a32f55, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -6068,7 +6068,7 @@ ParticleSystem:
     angle: 33.3
     length: 5
     boxThickness: {x: 0, y: 0, z: 0}
-    radiusThickness: 0
+    radiusThickness: 0.5
     donutRadius: 0.2
     m_Position: {x: 0, y: 0, z: 0}
     m_Rotation: {x: 0, y: 0, z: 0}
@@ -6208,7 +6208,7 @@ ParticleSystem:
           m_PostInfinity: 2
           m_RotationOrder: 4
     arc:
-      value: 187.77
+      value: 360
       mode: 0
       spread: 0
       speed:
